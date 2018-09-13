@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 3ed6db9351b7c7246b08d84f2a19e44e
+timeCreated: 1475348635
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: front wheel
+    100004: llanta delantera
+    100006: Llanta trasera
+    100008: //RootNode
+    100010: Motorbike
+    100012: Motorbike- Frontal
+    100014: Motorbike-Body
+    100016: Motorbike-Body 1
+    100018: Motorbike-Body002
+    100020: Motorbike-Frontal
+    100022: Motorbike-Frontal-Wheel
+    100024: Motorbike-Rear-Wheel
+    100026: Object001
+    100028: Plane001
+    100030: Plane002
+    100032: Plane003
+    100034: Plane004
+    100036: Rear Wheel
+    400000: Box001
+    400002: front wheel
+    400004: llanta delantera
+    400006: Llanta trasera
+    400008: //RootNode
+    400010: Motorbike
+    400012: Motorbike- Frontal
+    400014: Motorbike-Body
+    400016: Motorbike-Body 1
+    400018: Motorbike-Body002
+    400020: Motorbike-Frontal
+    400022: Motorbike-Frontal-Wheel
+    400024: Motorbike-Rear-Wheel
+    400026: Object001
+    400028: Plane001
+    400030: Plane002
+    400032: Plane003
+    400034: Plane004
+    400036: Rear Wheel
+    2300000: Box001
+    2300002: front wheel
+    2300004: llanta delantera
+    2300006: Llanta trasera
+    2300008: Motorbike
+    2300010: Motorbike- Frontal
+    2300012: Motorbike-Body
+    2300014: Motorbike-Body 1
+    2300016: Motorbike-Body002
+    2300018: Motorbike-Frontal
+    2300020: Motorbike-Frontal-Wheel
+    2300022: Motorbike-Rear-Wheel
+    2300024: Object001
+    2300026: Plane001
+    2300028: Plane002
+    2300030: Plane003
+    2300032: Plane004
+    2300034: Rear Wheel
+    3300000: Box001
+    3300002: front wheel
+    3300004: llanta delantera
+    3300006: Llanta trasera
+    3300008: Motorbike
+    3300010: Motorbike- Frontal
+    3300012: Motorbike-Body
+    3300014: Motorbike-Body 1
+    3300016: Motorbike-Body002
+    3300018: Motorbike-Frontal
+    3300020: Motorbike-Frontal-Wheel
+    3300022: Motorbike-Rear-Wheel
+    3300024: Object001
+    3300026: Plane001
+    3300028: Plane002
+    3300030: Plane003
+    3300032: Plane004
+    3300034: Rear Wheel
+    4300000: Plane001
+    4300002: Plane002
+    4300004: Plane003
+    4300006: Plane004
+    4300008: Motorbike
+    4300010: Motorbike-Body
+    4300012: Motorbike- Frontal
+    4300014: Rear Wheel
+    4300016: front wheel
+    4300018: Box001
+    4300020: Object001
+    4300022: llanta delantera
+    4300024: Llanta trasera
+    4300026: Motorbike-Body
+    4300028: Motorbike-Body002
+    4300030: Motorbike-Rear-Wheel
+    4300032: Motorbike-Frontal
+    4300034: Motorbike-Frontal-Wheel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
